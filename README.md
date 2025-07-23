@@ -1,0 +1,2 @@
+# Zepto-Sales-Insight---SQL
+SALES AND PRODUCT INSIGHTS – ZEPTO(SQL)
